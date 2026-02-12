@@ -28,7 +28,7 @@ const Outcomes = () => {
                 <div className="relative aspect-[4/5] w-full overflow-hidden rounded-xl bg-slate-900">
                   {/* Placeholder Logic: Use a neutral professional placeholder or generic avatar */}
                   <img
-                    src="/images/ana-martinez.png"
+                    src={`${import.meta.env.BASE_URL}images/ana-martinez.png`}
                     alt="Ana Martínez"
                     className="h-full w-full object-cover object-center"
                   />
