@@ -42,7 +42,7 @@ const Pricing = () => {
               <div className="mb-8 text-center">
                 <p className="text-sm font-medium text-muted-foreground uppercase tracking-wide mb-2">Inversión Única</p>
                 <div className="flex items-center justify-center gap-3 mb-2">
-                  <span className="text-6xl font-bold text-slate-900 font-display">$197</span>
+                  <span className="text-6xl font-bold text-slate-900 font-display">$247</span>
                 </div>
                 <p className="text-sm text-green-600 font-medium bg-green-50 inline-block px-3 py-1 rounded-full">
                   Aprovecha este momento para un cambio
@@ -57,7 +57,7 @@ const Pricing = () => {
                 asChild
               >
                 <a
-                  href="https://wa.me/50670588196?text=Hola, me gustaría reservar mi cupo en el taller de productividad con el precio especial de $197"
+                  href="https://wa.me/50670588196?text=Hola, me gustaría reservar mi cupo en el taller de productividad con el precio especial de $247"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2"
